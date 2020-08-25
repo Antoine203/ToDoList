@@ -1,5 +1,5 @@
 # ToDoList
-Dynamic web application for creating multiple to do lists
+Dynamic web application for creating multiple to-do lists
 
 ## Usage
 For a custom list, add the following the url "/" then your custom name for your list.
